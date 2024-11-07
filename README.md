@@ -1,1 +1,1 @@
-# odin-memory-card
+# Odin Memory Card
